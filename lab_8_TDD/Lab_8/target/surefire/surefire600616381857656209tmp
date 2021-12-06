@@ -1,0 +1,8 @@
+#surefire
+#Sat Dec 04 21:03:03 BOT 2021
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\Erwin\\OneDrive\\Documents\\NetBeansProjects\\Lab_8
+file.encoding=UTF-8
+localRepository=C\:\\Users\\Erwin\\.m2\\repository
+basedir=C\:\\Users\\Erwin\\OneDrive\\Documents\\NetBeansProjects\\Lab_8
+test=com.mycompany.lab_8.SudoTest

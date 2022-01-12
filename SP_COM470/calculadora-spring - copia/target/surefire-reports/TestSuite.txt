@@ -1,0 +1,244 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 40, Failures: 40, Errors: 0, Skipped: 0, Time elapsed: 1.265 sec <<< FAILURE! - in TestSuite
+borrarAvanzadoTest on borrarAvanzadoTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0.063 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleTest.setUp(CalculateSimpleTest.java:33)
+
+borrarAvanzadoTest on borrarAvanzadoTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0.063 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleTest.tearDown(CalculateSimpleTest.java:206)
+
+restarTest on restarTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleTest.setUp(CalculateSimpleTest.java:33)
+
+restarTest on restarTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleTest.tearDown(CalculateSimpleTest.java:206)
+
+sumaTest on sumaTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleTest.setUp(CalculateSimpleTest.java:33)
+
+sumaTest on sumaTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleTest.tearDown(CalculateSimpleTest.java:206)
+
+dividirTest on dividirTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleTest.setUp(CalculateSimpleTest.java:33)
+
+dividirTest on dividirTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleTest.tearDown(CalculateSimpleTest.java:206)
+
+fiboTest on fiboTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0.016 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleTest.setUp(CalculateSimpleTest.java:33)
+
+fiboTest on fiboTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0.016 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleTest.tearDown(CalculateSimpleTest.java:206)
+
+multiplicarTest on multiplicarTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleTest.setUp(CalculateSimpleTest.java:33)
+
+multiplicarTest on multiplicarTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleTest.tearDown(CalculateSimpleTest.java:206)
+
+potenciaTest on potenciaTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleTest.setUp(CalculateSimpleTest.java:33)
+
+potenciaTest on potenciaTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleTest.tearDown(CalculateSimpleTest.java:206)
+
+raizTest on raizTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleTest.setUp(CalculateSimpleTest.java:33)
+
+raizTest on raizTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleTest.tearDown(CalculateSimpleTest.java:206)
+
+factorialTest on factorialTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleTest.setUp(CalculateSimpleTest.java:33)
+
+factorialTest on factorialTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleTest.tearDown(CalculateSimpleTest.java:206)
+
+borrarTest on borrarTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0.015 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleTest.setUp(CalculateSimpleTest.java:33)
+
+borrarTest on borrarTest(com.example.service.CalculateSimpleTest)(com.example.service.CalculateSimpleTest)  Time elapsed: 0.015 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleTest.tearDown(CalculateSimpleTest.java:206)
+
+borrarAvanzadoTest on borrarAvanzadoTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleNGTest.setUp(CalculateSimpleNGTest.java:33)
+
+borrarAvanzadoTest on borrarAvanzadoTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleNGTest.tearDown(CalculateSimpleNGTest.java:206)
+
+restarTest on restarTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleNGTest.setUp(CalculateSimpleNGTest.java:33)
+
+restarTest on restarTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleNGTest.tearDown(CalculateSimpleNGTest.java:206)
+
+sumaTest on sumaTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleNGTest.setUp(CalculateSimpleNGTest.java:33)
+
+sumaTest on sumaTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0.016 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleNGTest.tearDown(CalculateSimpleNGTest.java:206)
+
+dividirTest on dividirTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleNGTest.setUp(CalculateSimpleNGTest.java:33)
+
+dividirTest on dividirTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleNGTest.tearDown(CalculateSimpleNGTest.java:206)
+
+fiboTest on fiboTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleNGTest.setUp(CalculateSimpleNGTest.java:33)
+
+fiboTest on fiboTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleNGTest.tearDown(CalculateSimpleNGTest.java:206)
+
+multiplicarTest on multiplicarTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleNGTest.setUp(CalculateSimpleNGTest.java:33)
+
+multiplicarTest on multiplicarTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleNGTest.tearDown(CalculateSimpleNGTest.java:206)
+
+potenciaTest on potenciaTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleNGTest.setUp(CalculateSimpleNGTest.java:33)
+
+potenciaTest on potenciaTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleNGTest.tearDown(CalculateSimpleNGTest.java:206)
+
+raizTest on raizTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleNGTest.setUp(CalculateSimpleNGTest.java:33)
+
+raizTest on raizTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleNGTest.tearDown(CalculateSimpleNGTest.java:206)
+
+factorialTest on factorialTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0.015 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleNGTest.setUp(CalculateSimpleNGTest.java:33)
+
+factorialTest on factorialTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0.015 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleNGTest.tearDown(CalculateSimpleNGTest.java:206)
+
+borrarTest on borrarTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/openqa/selenium/remote/SessionNotFoundException
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at com.example.service.CalculateSimpleNGTest.setUp(CalculateSimpleNGTest.java:33)
+
+borrarTest on borrarTest(com.example.service.CalculateSimpleNGTest)(com.example.service.CalculateSimpleNGTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at com.example.service.CalculateSimpleNGTest.tearDown(CalculateSimpleNGTest.java:206)
+

@@ -1,0 +1,8 @@
+#surefire_0
+#Wed Jan 12 02:14:41 BOT 2022
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\Erwin\\OneDrive\\Desktop\\SP_COM470\\calculadora-spring - copia
+file.encoding=UTF-8
+localRepository=C\:\\Users\\Erwin\\.m2\\repository
+basedir=C\:\\Users\\Erwin\\OneDrive\\Desktop\\SP_COM470\\calculadora-spring - copia
+test=com.example.service.CalculateSimpleNGTest
